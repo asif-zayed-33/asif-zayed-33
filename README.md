@@ -1,51 +1,87 @@
-# 👋 Hello, I'm [Sayed Asif Zayed]  
+# 👨‍💻 Sayed Asif Zayed | Software Architect
 
-[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://zayedfahim.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayed-fahim)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayed@shomvob.com)
+![Profile Views](https://komarev.com/ghpvc/?username=asif-zayed-33&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/asif-zayed-33?style=social)
 
-*📍 Jr. Software Developer* | *💻 Backend & Full Stack Development* | *🚀 Building Scalable Web Apps & Microservices*
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://zayedfahim.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayed-fahim)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayed@shomvob.com)
 
-I'm a passionate Software Engineer specializing in TypeScript, Node.js, and modern backend architectures. I aim to craft efficient, scalable, and maintainable systems that solve real-world problems. With over 2 years of hands-on experience, I love building robust RESTful APIs, real-time communication systems, and full-stack applications using tools like NestJS, MongoDB, Redis, and Next.js.
+</div>
 
----
+## 🧠 About Me
 
-## 🛠 Tech Stack
+**Software Developer** | **Backend & Full Stack Specialist** | **Microservices Enthusiast**
 
-### 💻 Languages  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🚀 Frameworks & Libraries  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🧰 Tools & Platforms  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+I craft elegant digital solutions with a focus on **system design**, **scalability**, and **seamless integration**. My engineering approach blends technical excellence with business value to create impactful software architectures that stand the test of time.
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 🛠️ Technology Arsenal
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-zayed-33&show_icons=true&theme=radical)
+### 🔧 Backend Engineering
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,typescript" alt="backend technologies" height="50"/>
+  <p><em>Building robust APIs and service layers that handle complex business logic with elegance</em></p>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-zayed-33&layout=compact&theme=radical)
+### 🗃️ Data Architecture
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,redis,mysql,prisma" alt="database technologies" height="50"/>
+  <p><em>Designing efficient data schemas and query patterns for optimal performance and scalability</em></p>
+</div>
+
+### 🖥️ Full Stack Capabilities
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript" alt="frontend technologies" height="50"/>
+  <p><em>Creating intuitive interfaces that deliver exceptional user experiences</em></p>
+</div>
+
+### 🚀 Infrastructure & Deployment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,github" alt="devops technologies" height="50"/>
+  <p><em>Orchestrating cloud-native solutions for continuous delivery and reliability</em></p>
+</div>
 
 ---
 
-## 📬 Get In Touch
+## 💡 Core Engineering Principles
 
-- 📧 **Email:** [youremail@domain.com](mailto:zayed@shomvob.com)
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/zayed-fahim)
-- 🌐 **Website:** [yourwebsite.com](https://zayedfahim.vercel.app)
+- **Modular Architecture** - Building systems with clean separation of concerns
+- **Performance Optimization** - Identifying and eliminating bottlenecks
+- **Security by Design** - Implementing robust security patterns from day one
+- **Test-Driven Development** - Ensuring reliability through comprehensive testing
+- **Documentation as Code** - Maintaining clear technical documentation
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asif-zayed-33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-zayed-33&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=asif-zayed-33&theme=tokyonight&hide_border=true" alt="Streak Stats" width="32%" />
+</div>
+
+---
+
+## 📣 Let's Build Something Amazing
+
+I thrive on solving complex engineering challenges and am always open to:
+- 🤝 Strategic technical partnerships
+- 💡 Architecture consultations
+- 🚀 High-impact project collaborations
+
+<div>
+  
+📧 **Connect:** [zayed@shomvob.com](mailto:zayed@shomvob.com)  
+🔗 **Network:** [LinkedIn Profile](https://linkedin.com/in/zayed-fahim)  
+🌐 **Explore:** [Portfolio Website](https://zayedfahim.vercel.app)
+
+</div>
+
+---
+
+> "**Engineering is not just about writing code—it's about crafting solutions that elegantly solve real problems.**"
